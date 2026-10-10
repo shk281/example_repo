@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sir Waleed</title>
+
+<style>
+body {
+margin: 0;
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Arial, sans-serif;
+background: linear-gradient(135deg, #74ebd5, #9face6);
+}
+
+.card {
+background: white;
+padding: 35px;
+margin: 20px;
+border-radius: 20px;
+text-align: center;
+box-shadow: 0 8px 25px #00000030;
+}
+
+h1 {
+color: #4b4ded;
+}
+
+p {
+color: #444;
+font-size: 18px;
+line-height: 1.7;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>Asalam u alikum Sir Waleed</h1>
+
+<p>
+Sir g ye maire pehli website hai ye mai ne ap se sekhi hai
+you are the best sir in the world
+</p>
+</div>
+
+</body>
+</html>
